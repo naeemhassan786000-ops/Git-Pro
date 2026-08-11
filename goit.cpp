@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << "Git Advance\n";
+    cout << "Git Advancement\n";
 }
