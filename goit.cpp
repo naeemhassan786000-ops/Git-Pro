@@ -3,5 +3,9 @@ using namespace std;
 int main()
 {
     cout << "Git Advancement\n";
-    cout << "Git Pro\n";
+<<<<<<< HEAD
+    cout << "Git ++\n";
+=======
+    cout << "Git ++\n";
+>>>>>>> 11b417a (line/feature)
 }
